@@ -1,0 +1,3 @@
+C:/Users/Mathew/CLionProjects/Vulkan/DrawingATriangle/cmake-build-debug/CMakeFiles/VulkanTest.dir
+C:/Users/Mathew/CLionProjects/Vulkan/DrawingATriangle/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Mathew/CLionProjects/Vulkan/DrawingATriangle/cmake-build-debug/CMakeFiles/rebuild_cache.dir
